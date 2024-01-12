@@ -1,0 +1,22 @@
+// Import Bootstrap CSS
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+// Add custom SCSS below (if any)
+.cl {
+    font-size: 34px;
+    color: #333;
+  }
+
+/* styles/ImageSlider.module.css */
+.slider-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
